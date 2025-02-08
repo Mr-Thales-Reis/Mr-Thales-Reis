@@ -41,10 +41,6 @@ Sou movido pela curiosidade e pelo desejo de aprender constantemente, sempre bus
   </a>
   <strong>Thales Reis</strong>
   <br><br>
-  <!-- Gmail -->
-  <a href="mailto:thalesreis.profissional@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Gmail_Logo_2020.png" alt="Gmail" width="40" height="40"/>
-  </a>
   <strong>thalesreis.profissional@gmail.com</strong>
 </p>
 
