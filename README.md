@@ -35,11 +35,14 @@ Sou movido pela curiosidade e pelo desejo de aprender constantemente, sempre bus
 ## 📫 **Onde me encontrar**  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thales-reis-b01583261" target="_blank">Thales Reis
+  <a href="https://www.linkedin.com/in/thales-reis-b01583261" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/Mr-Thales-Reis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  Thales Reis
+  <br>
+  <a href="mailto:thalesreis.profissional@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
-</p>  
+  thalesreis.profissional@gmail.com
+</p>
 
