@@ -1,4 +1,8 @@
-🧐 Entusiasta em Quality Assurance
+# 👋 Olá, seja bem-vindo ao meu perfil!  
+
+## Eu sou o Thales e fico feliz em tê-lo por aqui. 🚀  
+
+##🧐 Entusiasta em Quality Assurance
 Sempre fui fascinado por garantir que softwares funcionem com precisão, eficiência e segurança. Quality Assurance (QA) não é apenas testar – é prevenir erros, otimizar processos e elevar a qualidade de um produto. Adoro explorar diferentes técnicas de automação, entender o funcionamento interno das aplicações e buscar constantemente maneiras de aprimorar a experiência do usuário.
 
 Com experiência em ferramentas como Cypress, além de um forte conhecimento em CI/CD, Docker e programação, estou sempre em busca de desafios que me permitam crescer e contribuir para a excelência dos projetos. Minha paixão por QA vai além dos testes – envolve análise crítica, pensamento estratégico e a busca contínua por melhorias.
@@ -21,7 +25,7 @@ Com experiência em ferramentas como Cypress, além de um forte conhecimento em 
 ## 📫 Onde me encontrar  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="www.linkedin.com/in/thales-reis-b01583261" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
