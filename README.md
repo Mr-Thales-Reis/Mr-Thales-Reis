@@ -1,3 +1,10 @@
+🧐 Entusiasta em Quality Assurance
+Sempre fui fascinado por garantir que softwares funcionem com precisão, eficiência e segurança. Quality Assurance (QA) não é apenas testar – é prevenir erros, otimizar processos e elevar a qualidade de um produto. Adoro explorar diferentes técnicas de automação, entender o funcionamento interno das aplicações e buscar constantemente maneiras de aprimorar a experiência do usuário.
+
+Com experiência em ferramentas como Cypress, além de um forte conhecimento em CI/CD, Docker e programação, estou sempre em busca de desafios que me permitam crescer e contribuir para a excelência dos projetos. Minha paixão por QA vai além dos testes – envolve análise crítica, pensamento estratégico e a busca contínua por melhorias.
+
+🚀 Garantir qualidade não é um obstáculo no desenvolvimento, mas um diferencial que transforma boas ideias em grandes produtos!
+
 ## 🛠️ Tecnologias & Ferramentas  
 
 <p align="left">
